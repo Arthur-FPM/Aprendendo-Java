@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Arthur",
+        "descricao": "Estudante Java"
+    },
+    {
+        "nome": "Will",
+        "descricao": "Estudante Css"
+    },
+    {
+        "nome": "Luiz",
+        "descricao": "Estudante HTML"
+    },
+    {
+        "nome": "Irineu",
+        "descricao": "vc n sabe , nem eu"
+    },
+    {
+        "nome": "Rafael",
+        "descricao": "Professor"
+    }
+]
